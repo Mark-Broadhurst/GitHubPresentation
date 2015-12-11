@@ -1,0 +1,6 @@
+.octocat {
+  transform: scale(0.5, 0.5);
+-ms-transform: scale(0.5, 0.5);
+-webkit-transform: scale(0.5, 0.5);
+border:0px;
+}
